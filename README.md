@@ -11,10 +11,13 @@
 [![Platform](https://img.shields.io/badge/Platform-Windows%20x64-lightgrey.svg)](https://github.com/TheHolyOneZ/ZModManager)
 [![Runtime](https://img.shields.io/badge/Unity-Mono%20%7C%20IL2CPP-orange.svg)](https://github.com/TheHolyOneZ/ZModManager)
 [![Made by TheHolyOneZ](https://img.shields.io/badge/Made%20by-TheHolyOneZ-3d6aff.svg)](https://zlogic.eu)
+[![Website](https://img.shields.io/badge/Website-zlogic.eu%2Fmodmanager-7C6FF7.svg)](https://zlogic.eu/modmanager/)
 
 ---
 
 *Inject Mono assemblies at runtime. Deploy IL2CPP mods to MelonLoader, BepInEx or your own bootstrap — all from one clean dark UI.*
+
+**[🌐 Website](https://zlogic.eu/modmanager/) · [📦 Releases](https://github.com/TheHolyOneZ/ZModManager/releases) · [📖 Docs](#getting-started)**
 
 </div>
 
