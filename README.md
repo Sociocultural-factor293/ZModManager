@@ -212,8 +212,8 @@ User clicks Launch
 > - **BepInEx 6** is the alternative; some mods target it instead.
 > - **ZModBootstrap** is ZModManager's built-in fallback. Use it only for native (C++) mods when you have no other framework.
 
----
 
+---
 
 ## Getting Started
 
@@ -227,7 +227,7 @@ User clicks Launch
 | **Privileges** | Administrator (required for `CreateRemoteThread`) |
 
 > [!CAUTION]
-> ZModManager allocates executable memory in remote processes and calls `CreateRemoteThread`. **Run it as Administrator**, otherwise injection will silently fail.
+> ZModManager allocates executable memory in remote processes and calls `CreateRemoteThread`. **Run it as Administrator**, otherwise injection may silently fail.
 
 ---
 
@@ -315,6 +315,13 @@ dotnet build ZModManager/ZModManager.csproj --configuration Release
 ```
 
 Or open `ZModManager.sln` in Visual Studio and **Build → Build Solution**.
+
+---
+
+## Code Notes
+
+> [!NOTE]
+> Almost every source file in this project contains inline comments explaining what the code does and why. If you're reading through the codebase to understand how something works or to contribute, the comments should make navigation straightforward without needing to cross-reference docs constantly.
 
 ---
 
